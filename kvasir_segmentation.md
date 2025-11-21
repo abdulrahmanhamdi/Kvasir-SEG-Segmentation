@@ -86,13 +86,11 @@ U-Net is widely used for medical image segmentation [5], featuring:
 
 ## A. Visual Outputs
 **Figure 1 – Input → Ground Truth → Prediction**  
-*(Insert your image link here)*  
-`![Figure 1](https://your-image-link-1.png)`
+![Figure 1](figure1_input_groundtruth_prediction.png)
 
 ## B. Training Curves
 **Figure 2 – Loss, Dice, IoU, Accuracy curves**  
-*(Insert your image link here)*  
-`![Figure 2](https://your-image-link-2.png)`
+![Figure 2](figure2_training_validation_curves.png)
 
 ### Observations:
 - Loss decreased steadily  
@@ -130,7 +128,7 @@ The model achieved high performance on Kvasir-SEG, showing strong potential for 
 
 # Thank You Message
 Dear Students,  
-Thank you for exploring this plant disease detection model. It was built not just to classify leaves, but to inspire your journey in deep learning. Study every block, experiment with improvements, and let curiosity be your best mentor.
+Thank you for exploring this polyp segmentation project built on the Kvasir-SEG dataset. This work was designed not only to demonstrate segmentation techniques, but to support your growth in deep learning and medical image analysis. Examine the architecture, study each component, test new ideas, and allow curiosity to guide your progress.
 
 *"You don’t learn to code by copying, you learn to code by understanding, breaking, and rebuilding."*
 
