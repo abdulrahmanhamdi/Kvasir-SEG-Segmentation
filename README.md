@@ -86,13 +86,11 @@ U-Net is widely used for medical image segmentation [5], featuring:
 
 ## A. Visual Outputs
 **Figure 1 – Input → Ground Truth → Prediction**  
-*(Insert your image link here)*  
-`![Figure 1](https://Girdi-Ground Truth-Tahmin.png)`
+![Figure 1](figure1_input_groundtruth_prediction.png)
 
 ## B. Training Curves
 **Figure 2 – Loss, Dice, IoU, Accuracy curves**  
-*(Insert your image link here)*  
-`![Figure 2](https://Eğitim ve Doğrulama Eğrileri.png)`
+![Figure 2](figure2_training_validation_curves.png)
 
 ### Observations:
 - Loss decreased steadily  
